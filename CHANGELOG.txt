@@ -1,0 +1,51 @@
+1.2.1 (2017.05.01)
+
+- remote destroy added
+- zip packer added
+
+1.2.0  (2017.04.29)
+
+- user custom logger added
+- log secure/clusters config added
+- txt logs viewer added
+- Skynet Client added
+
+1.1.6-stable (2017.04.27)
+
+- added output from listeners
+- cloner fix
+- added theme switcher
+
+1.1.5-stable (2017.04.26)
+
+- params hashed added
+- database tables counter added
+- Mcrypt added
+
+
+1.1.4-stable (2017.04.25)
+
+- commands fixed
+- serialization added
+- listeners debug added
+
+1.1.3-alpha (2017.04.24)
+
+- database creation listener added
+- database records edit/new added
+- debugger added
+- fixes
+- fields translation added
+
+1.1.2-alpha (2017.04.22)
+
+- Ajax ControlPanel added
+- connections fix
+- no header mode added
+- console & cli classes splitted
+- some fixed
+
+1.1.0-alpha (2017.04.21)
+
+- improved commands
+- new Control Panel

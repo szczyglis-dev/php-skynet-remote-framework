@@ -1,3 +1,5 @@
+# Symfony entries are only for Github issue with incorrect language detect
+
 # Cache and logs (Symfony2)
 /app/cache/*
 /app/logs/*
@@ -50,3 +52,19 @@
 
 # Embedded web-server pid file
 /.web-server-pid
+
+
+# Real gitignore
+.idea/
+/_compiled/*.php
+/_download/*.txt
+/logs/*.txt
+*.db
+/sandbox/*
+/manual/Manual/manual.php
+/manual/Manual/manual.txt
+/manual/Manual/pages/
+skynetCluster.php
+skynetCluster2.php
+cmd.php
+skynet.js
