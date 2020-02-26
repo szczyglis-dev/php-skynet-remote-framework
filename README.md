@@ -4752,11 +4752,7 @@ Your old config and listeners will be included into new version of Skynet's core
 Link to GitHub: [https://github.com/szczyglis-dev/php-skynet-remote-framework](https://github.com/szczyglis-dev/php-skynet-remote-framework)
 
 Link to website: [https://skynetframework.blogspot.com](https://skynetframework.blogspot.com)
-
-Email to author: szczyglis ("12 Monkeys" movie here) protonmail.com
-
-FB:[https://www.facebook.com/Skynet-Framework-441383486200242](https://www.facebook.com/Skynet-Framework-441383486200242) 
-
+Contact: szczyglis@protonmail.com
 
 ### Skynet is Open Source but if you liked Skynet then you can donate project in BTC: 
 
