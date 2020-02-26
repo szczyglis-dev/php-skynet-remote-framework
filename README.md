@@ -1,9 +1,3 @@
-### Donate project:
-BTC: **1LK9tDPBuBFXCKUThFWXNvdcdJ4gzx1Diz** 
-
-PayPal: **[https://www.paypal.me/szczyglinski](https://www.paypal.me/szczyglinski)**
-
-------------
 Current version: **1.2.1 (2017.05.01)**
 
 Full documentation: **[https://skynetframework.blogspot.com](https://skynetframework.blogspot.com)**
